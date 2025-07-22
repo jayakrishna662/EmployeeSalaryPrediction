@@ -87,7 +87,7 @@ The app allows users to input feature values and get a prediction of income clas
 Used **ngrok** to generate a public URL for easy hosting so that we can share and access the application online.
 
 ---
-## Ouput
+## Output
 <img width="669" height="814" alt="Screenshot 2025-07-21 204557" src="https://github.com/user-attachments/assets/4696ae64-d6f6-45d5-9546-c876020cc9c5" />
 
 ## ▶️ Running the Application
