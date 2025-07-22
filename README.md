@@ -35,15 +35,15 @@ The model is trained on the **UCI Adult Income dataset**, a popular dataset used
 
 EmployeeSalaryPrediction/
 │
-├── app.py # Streamlit web app
-├── run_with_ngrok.py # Script to expose the app online using ngrok
+├── app.py                          # Streamlit web app
+├── run_with_ngrok.py              # Script to expose the app online using ngrok
 ├── employeeSalaryPrediction.ipynb # Jupyter Notebook (full ML pipeline)
-├── xgb_model.pkl # Trained model
-├── encoders.pkl # Encoders for categorical features
-├── X_test.pkl # Test data (features)
-├── y_test.pkl # Test data (labels)
-├── adult 3.csv # Original dataset
-└── README.md # Project overview
+├── xgb_model.pkl                  # Trained model
+├── encoders.pkl                   # Encoders for categorical features
+├── X_test.pkl                     # Test data (features)
+├── y_test.pkl                     # Test data (labels)
+├── adult 3.csv                    # Original dataset
+└── README.md                      # Project overview
 
 
 ---
