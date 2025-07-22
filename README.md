@@ -32,7 +32,7 @@ The model is trained on the **UCI Adult Income dataset**, a popular dataset used
 ---
 
 ## 📁 Project Files
-
+```text
 EmployeeSalaryPrediction/
 │
 ├── app.py                          # Streamlit web app
@@ -45,7 +45,7 @@ EmployeeSalaryPrediction/
 ├── adult 3.csv                    # Original dataset
 └── README.md                      # Project overview
 
-
+```
 ---
 
 ## 🔧 Steps in Building the Project
